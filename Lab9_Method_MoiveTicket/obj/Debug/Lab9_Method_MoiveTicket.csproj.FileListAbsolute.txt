@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\bin\Debug\Lab9_Method_MoiveTicket.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\bin\Debug\Lab9_Method_MoiveTicket.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\bin\Debug\Lab9_Method_MoiveTicket.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\obj\Debug\Lab9_Method_MoiveTicket.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\obj\Debug\Lab9_Method_MoiveTicket.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\obj\Debug\Lab9_Method_MoiveTicket.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\obj\Debug\Lab9_Method_MoiveTicket.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\obj\Debug\Lab9_Method_MoiveTicket.exe
+c:\users\user\documents\visual studio 2015\Projects\Lab9_Method_MoiveTicket\Lab9_Method_MoiveTicket\obj\Debug\Lab9_Method_MoiveTicket.pdb
